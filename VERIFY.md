@@ -14,7 +14,6 @@ Do NOT hash the Base64. Hash the decoded plaintext.
 
 ## Expected hash
 SHA-256(decoded plaintext):
-9d7bb3ccad7ee521ca1c966a5e9413911bb44e787cb796513f8cb872211be7dc
 f768f6b0cb5ef109a9e99bfa696d001f439853dc11bda217dbfb0712d7de62e8
 
 ## Common failure modes
